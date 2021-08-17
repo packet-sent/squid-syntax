@@ -1,0 +1,25 @@
+{
+    "name": "squid-syntax",
+    "displayName": "Squid Syntax",
+    "description": "Syntax highlighting extension for Squid config files",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "conf",
+            "aliases": ["Squid Conf", "conf"],
+            "extensions": [".conf"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "conf",
+            "scopeName": "source.conf",
+            "path": "./syntaxes/conf.tmLanguage.json"
+        }]
+    }
+}
