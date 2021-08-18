@@ -3,6 +3,7 @@
     "displayName": "Squid Syntax",
     "description": "Syntax highlighting extension for Squid config files",
     "version": "0.0.1",
+    "publisher": "SpeedProxies",
     "engines": {
         "vscode": "^1.59.0"
     },

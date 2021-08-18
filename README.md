@@ -1,6 +1,6 @@
 # squid-syntax README
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/packet-sent/squid-syntax/blob/master/LICENSE)
 [![Extention Version](https://img.shields.io/badge/version-0.0.1-green.svg)](https://img.shields.io/badge/version-0.0.1-green.svg)
 
 VSCode Syntax Highlighting for Squid Proxy Configuration files.
