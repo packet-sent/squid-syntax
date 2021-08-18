@@ -2,6 +2,7 @@
     "name": "squid-syntax",
     "displayName": "Squid Syntax",
     "description": "Syntax highlighting extension for Squid config files",
+    "icon": "images/squid_transparent.png",
     "version": "0.0.1",
     "publisher": "SpeedProxies",
     "engines": {
